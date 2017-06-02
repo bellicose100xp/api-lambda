@@ -9,6 +9,7 @@
   "author": "chandan chauhan",
   "license": "ISC",
   "devDependencies": {
-    "aws-sdk": "^2.60.0"
+    "aws-sdk": "^2.60.0",
+    "shortid": "^2.2.8"
   }
 }
